@@ -8,7 +8,9 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 - 😄 He/Him
+  
 - 🌱 I’m currently learning *Python*
+  
 - 📫 How to reach me *amithsiju262@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
