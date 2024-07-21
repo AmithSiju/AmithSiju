@@ -30,7 +30,7 @@
 <img  align="top" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmithSiju&theme=soft-green&card_width=250px&hide_border=false" /> 
 
 
-<p>&nbsp;<img align ="center" src="https://github-readme-stats.vercel.app/api?username=AmithSiju&show_icons=true&rank_icon=github&card_width=150px&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" alt="AmithSiju" /></p>
+<p>&nbsp;<img align ="top" src="https://github-readme-stats.vercel.app/api?username=AmithSiju&show_icons=true&rank_icon=github&card_width=50px&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" alt="AmithSiju" /></p>
 
 
 <img width="500%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
