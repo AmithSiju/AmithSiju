@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmithSiju&label=Profile%20views&color=0e75b6&style=flat" alt="AmithSiju" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmithSiju" alt="AmithSiju" /></a> </p>
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmithSiju"-ma&theme=onestar  alt="AmithSiju" /></a> </p>
+>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-  
+<!--   https://github-profile-trophy.vercel.app/?username=AmithSiju" alt="AmithSiju -->
 - 🌱 I’m currently learning *Python*
   
 - 📫 How to reach me *amithsiju262@gmail.com*
