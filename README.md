@@ -2,10 +2,12 @@
 <h1 align="center">Hi 👋, I'm Amith Siju</h1>
 <h3 align="center">MCA Student at College of Engineering, Trivandrum</h3>
 
+<img width="200%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmithSiju&label=Profile%20views&color=0e75b6&style=flat" alt="AmithSiju" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmithSiju" alt="AmithSiju" /></a> </p>
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="200%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 - 🌱 I’m currently learning *Python*
   
