@@ -27,8 +27,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmithSiju&layout=pie&langs_count=6&theme=midnight-purple" height="370" alt="languages graph"  />
 
+<img  align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmithSiju&theme=soft-green&card_width=250px&hide_border=false" /> 
+
+
 <p>&nbsp;<img align ="center" src="https://github-readme-stats.vercel.app/api?username=AmithSiju&show_icons=true&rank_icon=github&card_width=450px&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" alt="AmithSiju" /></p>
 
-<img  align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmithSiju&theme=soft-green&card_width=250px&hide_border=false" /> 
 
 <img width="500%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
